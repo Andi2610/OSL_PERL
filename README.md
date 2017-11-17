@@ -1,8 +1,8 @@
 Requirements:
-python installed
-pytesseract library
-tesseract-OCR installed
-Give the path of python and tesseract-OCR in system variables.
+1. python installed
+2. pytesseract library
+3. tesseract-OCR installed
+4. Give the path of python and tesseract-OCR in system variables.
 
 To run this project:
 1. Copy the file to destined folder
