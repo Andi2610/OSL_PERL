@@ -1,5 +1,4 @@
 Requirements:
-
 python installed
 pytesseract library
 tesseract-OCR installed
